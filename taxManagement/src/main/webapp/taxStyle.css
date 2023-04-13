@@ -1,0 +1,31 @@
+@charset "EUC-KR";
+body {font-family:'°­³¶Äá','ÈÞ¸Õ¸ÅÁ÷Ã¼','±Ã¼­Ã¼'; background-color: #E0FFFF;}
+header {color : #550A35; }
+section {border:1px solid white; margin-left: 60px; 
+		margin-right : 55px; padding :5px; }
+section table th,td {padding:8px}
+section>h2 {color:#7D0552;}
+menu {border:0.3px solid white; margin-left:100px; margin-right :80px; padding:10px;}
+.txm a {text-decoration:none; color:#666; border:none; margin:0; padding:0;}
+.txm a:visited {text-decoration:none; border:none;}
+.txm a:active {text-decoration:none; border:none;}
+.txm a:hover {text-decoration:none; border:none;}
+
+.log {color: #0000A0;}
+.log a {font-size:15px; color:#C34A2C; }
+
+.btns input[type=button]{background-color:#5CB3FF; text-decoration:none; padding:10px; margin:10px; 
+						cursor:pointer; border:none; color:black; border-radius :30px 10px 50px;}
+.btns input[type=submit]{background-color:#5CB3FF; text-decoration:none; padding:10px; margin:10px; 
+						cursor:pointer; border:none; color:black; border-radius :30px 10px 50px;}
+.btns2 input[type=submit]{background-color:#FF5F1F; text-decoration:none; padding:10px; margin:10px; 
+						cursor:pointer; border:none; color:#7F525D; border-radius :30px 10px;}
+.btns2 input[type=button]{background-color:#FF5F1F; text-decoration:none; padding:10px; margin:10px; 
+						cursor:pointer; border:none; color:#7F525D; border-radius :30px 10px;}							
+.btns3 input[type=button] {background-color:#6C2DC7; text-decoration:none; padding:10px; margin:5px; 
+						cursor:pointer; border:none; color:#5CB3FF; border-radius :30px ;}
+.btns4 input[type=button] {background-color:#5CB3FF; text-decoration:none; padding:10px; margin:5px; 
+						cursor:pointer; border:none; color:#6C2DC7; border-radius :30px ;}
+.btns4 input[type=submit] {background-color:#5CB3FF; text-decoration:none; padding:10px; margin:5px; 
+						cursor:pointer; border:none; color:#6C2DC7; border-radius :30px ;}			
+footer {border : none; width:1520px; background-color:#CCCCFF; margin-left:0; margin-bottom:0; padding:10px;}
